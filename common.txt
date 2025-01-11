@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added by developer1
+=======
+added by developer2
+>>>>>>> 0882d30f5fd34428ca542f5f9241e419644cbcb3
